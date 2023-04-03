@@ -12,6 +12,7 @@ avec une specialisation en conception des dashboards et la gestion des bases des
 
 - 👩‍💻 je conçois mes applications en php en utilisant le framework laravel 
 - 👩‍💻 en ce moment j'apprends les API en laravel 
-- 👩‍💻 toutes mes réalisations sont ici 👉 http://beckyada.com/
-- 📫 contactez moi via mon mail rebtshikadila@gmail.com 
+- 👩‍💻 toutes mes réalisations sont ici 👉 https://beckyo6.github.io/portfolio-becky/
+- 📫 contactez moi via mon mail rebtshikadila@gmail.com
+- Je partage des tips et mon parcours sur mon LinkedIn principalement, suivez-moi ici https://www.linkedin.com/in/rebecca-tshikadile/
 
